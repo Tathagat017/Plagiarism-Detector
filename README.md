@@ -1,6 +1,11 @@
 # Plagiarism Detector - Semantic Similarity Analyzer
 
 A full-stack application for detecting potential plagiarism using semantic text similarity based on sentence embeddings. Built with **FastAPI** backend and **React** frontend.
+![image](https://github.com/user-attachments/assets/516761f9-da13-4fd9-9b6d-5d7e778a3cb2)
+
+![image](https://github.com/user-attachments/assets/11f16247-6592-4d27-8bc8-ad894b842b5c)
+
+
 
 ## 🚀 Features
 
